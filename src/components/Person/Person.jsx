@@ -12,4 +12,3 @@ export const Person = ({ name, age, sex, partnerName }) => (
     )}
   </section>
 );
-
